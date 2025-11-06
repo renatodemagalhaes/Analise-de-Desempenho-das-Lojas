@@ -83,6 +83,6 @@ Este projeto demonstra como a análise de dados pode **embasar decisões de neg�
 
 ## ✨ Autor
 
-**Desenvolvido por:** [Seu Nome Aqui]  
-📧 Contato: seu.email@exemplo.com  
-💼 GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)
+**Desenvolvido por:** Renato Magalhães
+📧 Contato: renatodemagalhaes@yahoo.com.br
+💼 GitHub: https://github.com/renatodemagalhaes
